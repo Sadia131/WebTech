@@ -1,1 +1,0 @@
-<?php header('Location:./View/home-seller.php'); ?>
